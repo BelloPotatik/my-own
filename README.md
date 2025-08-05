@@ -1,1 +1,2 @@
-https://github.com/BelloPotatik/my-own/
+https://bellopotatik.github.io/my-own/site
+
